@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saumya Pande
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software dev|game dev |ML
+- 🌱 I’m currently learning python, java, HTML, CSS, javascript
+- 💞️ I’m looking to collaborate on intermediate level projects 
 - 📫 How to reach me: saumyapande3@gmail.com
 
 <!---
